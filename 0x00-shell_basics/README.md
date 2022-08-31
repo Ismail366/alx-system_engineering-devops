@@ -11,3 +11,4 @@
 ./10-back changes directory to the previous directory
 ./11-lists diplays contents of the current, parent and /boot directories
 ./12-file_type displays the type of file iamafile is
+./13-symbolic_link creates symbolic link to /bin/ls
