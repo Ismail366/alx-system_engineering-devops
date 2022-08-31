@@ -4,3 +4,4 @@
 ./3-listfiles list the files in current working directory in long format
 ./4-listmorefiles display the contents of the current directory in long format including hidden files and deirectories
 ./5-listfilesdigitonly displays contents of current directiory in long format including hidden files with user and group IDs displayed numerically
+./6-firstdirectory create directory my_first_directory in /tmp
