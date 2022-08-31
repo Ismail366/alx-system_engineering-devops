@@ -8,3 +8,4 @@
 ./7-movethatfile move the file betty from tmp/ to tmp/my_first_directory
 ./8-firstdelete deletes the file betty from /tmp/my_first_directory
 ./9-firstdirdeletion deletes the directory /tmp/my_first_directory
+./10-back changes directory to the previous directory
