@@ -15,4 +15,5 @@
 ./14-copy_html copy all html files to the parent directory if they do not exist in the parent directory 
 ./100-lets_move move all files that beging with uppercase to /tmp/u 
 ./101-clean_emacs deletes all files that ends with ~ 
- 
+./102-tree creates directory welcome/to/school 
+
