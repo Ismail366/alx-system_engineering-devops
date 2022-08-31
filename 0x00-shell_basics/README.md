@@ -9,4 +9,5 @@
 ./8-firstdelete deletes the file betty from /tmp/my_first_directory
 ./9-firstdirdeletion deletes the directory /tmp/my_first_directory
 ./10-back changes directory to the previous directory
-./11-lists diplays contents of the current, parent and /boot directorie
+./11-lists diplays contents of the current, parent and /boot directories
+./12-file_type displays the type of file iamafile is
