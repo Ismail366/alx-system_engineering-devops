@@ -19,3 +19,5 @@
 9-John_Doe sets mode to -rwxr-x-wx 
 
 10-mirror_permissions sets hello's permission same as olleh's
+
+11-directories_permissions add execute permissions of all subfolders in the current directory 
