@@ -4,3 +4,5 @@
 
 2-groups shows the groups the current user is part of
 
+3-new_owner change the ownerdhip of hello file to betty
+
