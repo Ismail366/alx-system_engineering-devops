@@ -10,3 +10,5 @@
 
 5-execute adds execute permission to owner
 
+6-multiple_permissions adds execute permission to owner and group owner and read permission to everybody
+
