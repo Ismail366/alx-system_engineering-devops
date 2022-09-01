@@ -27,4 +27,5 @@
 13-change_group changes the group owner of the file hello
 
 100-change_owner_and_group change owner and group onwner of files a directories
- 
+
+101-symbolic_link_permissions changes the owner and group owner of _hello 
