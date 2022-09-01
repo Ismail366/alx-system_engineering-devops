@@ -18,3 +18,4 @@
 
 9-John_Doe sets mode to -rwxr-x-wx 
 
+10-mirror_permissions sets hello's permission same as olleh's
