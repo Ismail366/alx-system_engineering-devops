@@ -20,4 +20,7 @@
 
 10-mirror_permissions sets hello's permission same as olleh's
 
-11-directories_permissions add execute permissions of all subfolders in the current directory 
+11-directories_permissions add execute permissions of all subfolders in the current directory
+
+12-directory_permissions creates directory with 751 permission
+ 
