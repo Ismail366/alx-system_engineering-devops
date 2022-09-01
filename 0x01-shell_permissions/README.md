@@ -16,3 +16,5 @@
 
 8-James_Bond gives no permission to the owner and group owner
 
+9-John_Doe sets mode to -rwxr-x-wx 
+
