@@ -2,4 +2,5 @@
 
 1-who_am_i show the current user
 
+2-groups shows the groups the current user is part of
 
