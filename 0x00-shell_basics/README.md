@@ -1,4 +1,4 @@
-we[***0-current_working_directory***](./0-current_working_directory  
+[***0-current_working_directory***](./0-current_working_directory  
 ) displays the current working directory.
 
 [***1-listit***](./1-listit) displaythe contents of the current directory
