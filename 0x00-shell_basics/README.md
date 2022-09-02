@@ -30,9 +30,9 @@
 
 [***14-copy_html***](./14-copy_html) copy all html files to the parent directory if they do not exist in the parent directory.
 
-[***100-lets_move***](./100-lets_move) move all files that beging with uppercase to /tmp/u.
+[***100-lets_move***](./100-lets_move) move all files that begin with uppercase to /tmp/u.
 
 [***101-clean_emacs***](./101-clean_emacs) deletes all files that ends with ~.
 
-[***102-tree***](./102-tree) creates directory welcome/to/school.
+[***102-tree***](./102-tree) creates directory [welcome/to/school]().
 
