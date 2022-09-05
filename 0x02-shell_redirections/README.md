@@ -19,3 +19,7 @@
 [9-duplicate_last_line](./9-duplicate_last_line) duplicates the last line of iacta
 
 [10-no_more_js](./10-no_more_js) deletes all js files in the current snd subdirectories
+
+[11-directories](./11-directories) count the number direcories and subdirectories
+
+
