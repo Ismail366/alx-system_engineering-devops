@@ -22,4 +22,6 @@
 
 [11-directories](./11-directories) count the number direcories and subdirectories
 
+[12-newest_files](./12-newest_files) print the first 10 newest file in the current directory
+
 
