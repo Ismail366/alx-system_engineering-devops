@@ -17,3 +17,5 @@
 [8-cwd_state](./8-cwd_state) writes the result of ls -la into the file ls_cwd_content
 
 [9-duplicate_last_line](./9-duplicate_last_line) duplicates the last line of iacta
+
+[10-no_more_js](./10-no_more_js) deletes all js files in the current snd subdirectories
