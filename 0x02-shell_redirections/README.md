@@ -13,3 +13,5 @@
 [6-third_line](./6-third_line) displays the content of the third line of iacta file
 
 
+
+[8-cwd_state](./8-cwd_state) writes the result of ls -la into the file ls_cwd_content
