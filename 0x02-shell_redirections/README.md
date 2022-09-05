@@ -10,4 +10,6 @@
 
 [5-firstlines](./5-firstlines) displays first 10 line of /etc/passwd
 
+[6-third_line](./6-third_line) displays the content of the third line of iacta file
+
 
