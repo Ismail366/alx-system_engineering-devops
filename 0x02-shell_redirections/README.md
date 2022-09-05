@@ -6,3 +6,4 @@
 
 [3-twofiles](./3-twofiles) displays contents of /etc/passwd and /etc/hosts
 
+[4-lastlines](./4-lastlines) displays last ten line of /etc/passwd
