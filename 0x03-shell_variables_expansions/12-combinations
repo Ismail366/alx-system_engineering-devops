@@ -1,0 +1,2 @@
+#!/bin/bash
+cho {a..z}{a..z} |tr [:space:] '\n'|grep -v 'oo'
